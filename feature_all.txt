@@ -1,0 +1,19 @@
+
+0 : label 1 : clickTime 2 : connectionType 3 : telecomsOperator 4 : creativeID 5 : adID 6 : camgaignID 7 : advertiserID 8 : appID 9 : appPlatform 10 : userID 11 : age 
+12 : gender 13 : education 14 : marriageStatus 15 : haveBaby 16 : hometown 17 : residence 18 : positionID 19 : sitesetID 20 : positionType 21 : appCategory 22 : appID#hour 
+23 : positionID#connectionType 24 : advertiserID#positionID 25 : appID#positionID 26 : creativeID#positionID 27 : creativeID#connectionType 28 : userID#sitesetID 
+29 : userID#positionType 30 : appID#age 31 : appID#gender 32 : appID#education 33 : appID#marriageStatus 34 : appID#haveBaby 35 : appCategory#positionID 
+36 : adID#connectionType 37 : age#camgaignID 38 : age#residence 39 : camgaignID#connectionType 40 : age#hometown 41 : residence#positionID 42 : userID#positionID 
+43 : userID#appPlatform 44 : userID#connectionType 45 : clickTime_day 46 : clickTime_hour 47 : clickTime_min 48 : clickTime_second 49 : advertiserID_camgaignID 
+50 : positionID_positionType 51 : sitesetID_positionType 52 : appCategory_pre 53 : appID_connectionType 54 : userID_appID 55 : userID_sum 56 : appID_sum 
+57 : click_crea_lab 58 : us_creaid_interclickTime_min 59 : us_creaid_interclickTime_second 60 : user_actioned_sum 61 : user_actioned_thiscate_sum 
+62 : user_actioned_thisbigcate_sum 63 : user_installed_sum 64 : user_installed_thiscate_sum 65 : user_installed_thisbigcate_sum 66 : userID_appID_sum 
+67 : userID_day_sum 68 : userID_appID_day_sum 69 : us_appID_interclickTime_min 70 : us_appID_interclickTime_second 71 : click_appID_lab 72 : clickcrealab_appID_con 
+73 : click_appID_min_first 74 : click_appID_min_last 75 : click_appID_second_first 76 : click_appID_second_last 77 : click_appID_day_lab 78 : click_appID_day_min_first 
+79 : click_appID_day_min_last 80 : click_appID_day_second_first 81 : click_appID_day_second_last 82 : adID#connectionTypecvr 83 : camgaignID#connectionTypecvr 
+84 : marriageStatus#residencecvr 85 : positionID#telecomsOperatorcvr 86 : userID#positionIDcvr 87 : creativeID#positionIDcvr 88 : userID#connectionTypecvr 
+89 : userID#telecomsOperatorcvr 90 : camgaignID#positionIDcvr 91 : positionID#singlecvr 92 : userID#singlecvr 93 : advertiserID#singlecvr 94 : appID#positionIDcvr 
+95 : positionID#connectionTypecvr 96 : userID#positionIDclt 97 : userID#appIDclt 
+98 : appID#positionIDclt 99 : age_split 100 : appCategory_pre_hour 101 : appCategory_hour 102 : quanju_click_appID_lab 103 : quanju_click_appID_min_first 
+104 : quanju_click_appID_min_last 105 : quanju_click_appID_second_first 106 : quanju_click_appID_second_last
+
